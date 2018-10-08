@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_login"
+        android:title="Login"
+        android:icon="@drawable/account"
+        />
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Country"
+        android:icon="@drawable/settings"
+        />
+    <item
+        android:id="@+id/menu_info"
+        android:title="About"
+        android:icon="@drawable/information"
+
+        />
+</menu>

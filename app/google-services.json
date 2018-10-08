@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "149904140043",
+    "firebase_url": "https://verificadorprecios-4aedf.firebaseio.com",
+    "project_id": "verificadorprecios-4aedf",
+    "storage_bucket": "verificadorprecios-4aedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149904140043:android:8d7110a679f30cb1",
+        "android_client_info": {
+          "package_name": "maceda.alejandro.verificadoronline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149904140043-f752mmo2c6f8mmdgq01ptf3utuu7841v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maceda.alejandro.verificadoronline",
+            "certificate_hash": "ad3a53697317c97c5de00de1d4907413d8553dc1"
+          }
+        },
+        {
+          "client_id": "149904140043-g8lfvrsh8pck7h1glrl9iktbm37boj1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCntvCtVvG2gV4bSWABvFMejq3UBlJp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149904140043-g8lfvrsh8pck7h1glrl9iktbm37boj1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2501920914988623~3203645707"
+    }
+  ],
+  "configuration_version": "1"
+}
